@@ -98,3 +98,10 @@ p{
     flex-basis: content;
 }
 }
+
+.name{
+    margin-bottom: 0%;
+}
+.title{
+    margin-top: 0%;
+}
